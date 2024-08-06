@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="AWANI Live 24/7" group-title="Siaranmy",AWANI Live 24/7
+#EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="Strike - Aquela Historia" group-title="Siaranmy",Strike - Aquela Historia
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="Berita RTM [ LANGSUNG ] 24 JAM" group-title="Siaranmy",Berita RTM [ LANGSUNG ] 24 JAM
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="HotFm.yt" tvg-name="Hot Fm (Terus strim live bersama kami)" group-title="Radiomy",Hot Fm (Terus strim live bersama kami)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722947448/ei/GMOxZsWxIaW2kucP1_706AE/ip/74.249.14.180/id/K9Rbcmp2Svk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAe0SCcR8f0slEH3lvAevxnt8d2E97ih1yawasVpu8OuxIiH54Heu5vUBOcY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALvE-Ko40p0SwATR14PwsOQ8PGHqU75PCAA2Z8yCpvFwAiAksZ3ZqRnlugTMefsN-Cqi7RpS4zfxF6j_lCAS7F0P8A%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722947560/ei/iMOxZvDEJI2Z2_gPg4yDoAM/ip/172.183.154.96/id/K9Rbcmp2Svk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51251569/txs/51251566%2C51251567%2C51251568%2C51251569%2C51251570%2C51251571%2C51251572/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATYZb8GUhZS2riRn2soYVuiX8KYzDewgc0Ynm9dqtuQ4vQ46JywmpVwiWsM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI8VNENB0o02-139GX0eeUwS3G7KjLIVsoiU-wJwF4HMCIFZQ_glGxPLL_GrQ_wVIswuXrrB-xsC64JP3N5lqztyc/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Spongebob.yt" tvg-name="Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa" group-title="Kids",Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
