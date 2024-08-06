@@ -1,27 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="Strike - Aquela Historia" group-title="Siaranmy",Strike - Aquela Historia
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+#EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="MADURO" group-title="Siaranmy",MADURO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722947718/ei/JsSxZszTLZ2pkucP4rfqkQc/ip/40.76.181.121/id/21WBvgw_bI4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdTOkLwR3hfcug9-R9nALHiqF5CqRi9lj1UusplXqzlrpsuK9YpLx3GGvu4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKL_nAZZmj-OF-8LGKelFkEaUknzxJfSLY6JssiN_HOXAiEAnIct9LoyqhJk7bWdDEmpkRIiUe1atbRPHFvoAUUz5-M%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="Berita RTM [ LANGSUNG ] 24 JAM" group-title="Siaranmy",Berita RTM [ LANGSUNG ] 24 JAM
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="HotFm.yt" tvg-name="Hot Fm (Terus strim live bersama kami)" group-title="Radiomy",Hot Fm (Terus strim live bersama kami)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722947560/ei/iMOxZvDEJI2Z2_gPg4yDoAM/ip/172.183.154.96/id/K9Rbcmp2Svk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51251569/txs/51251566%2C51251567%2C51251568%2C51251569%2C51251570%2C51251571%2C51251572/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATYZb8GUhZS2riRn2soYVuiX8KYzDewgc0Ynm9dqtuQ4vQ46JywmpVwiWsM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgI8VNENB0o02-139GX0eeUwS3G7KjLIVsoiU-wJwF4HMCIFZQ_glGxPLL_GrQ_wVIswuXrrB-xsC64JP3N5lqztyc/file/index.m3u8
-
-#EXTINF:-1 tvg-id="Spongebob.yt" tvg-name="Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa" group-title="Kids",Spongebob LANGSUNG: (Episode-Episode Anime yang Digambar Ulang)@Nickelodeon Bahasa
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="DisneyJunior.yt" tvg-name="LIVE! All Minnie's Bow-Toons! @disneyjunior" group-title="Kids",LIVE! All Minnie's Bow-Toons! @disneyjunior
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="Nickelodeon.yt" tvg-name="Nickelodeon Bahasa" group-title="Kids",Nickelodeon Bahasa
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="SuriaFM.yt" tvg-name="Suria Fm-Live (Segalanya Hiburan di Suria)" group-title="Radiomy",Suria Fm-Live (Segalanya Hiburan di Suria)
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="Didi.yt" tvg-name="Didi and Friend" group-title="Kids",Didi and Friend
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Aswaja TV" group-title="",Aswaja TV
+#EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="GRAN HERMANO" group-title="Siaranmy",GRAN HERMANO
