@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AstroAwani.yt" tvg-name="MADURO" group-title="Siaranmy",MADURO
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722947718/ei/JsSxZszTLZ2pkucP4rfqkQc/ip/40.76.181.121/id/21WBvgw_bI4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdTOkLwR3hfcug9-R9nALHiqF5CqRi9lj1UusplXqzlrpsuK9YpLx3GGvu4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKL_nAZZmj-OF-8LGKelFkEaUknzxJfSLY6JssiN_HOXAiEAnIct9LoyqhJk7bWdDEmpkRIiUe1atbRPHFvoAUUz5-M%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="BeritaRTM.yt" tvg-name="GRAN HERMANO" group-title="Siaranmy",GRAN HERMANO
